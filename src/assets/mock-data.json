@@ -1,0 +1,702 @@
+[
+    {
+        "datetime": "29/06/2023",
+        "disbursementNumber": 88621701,
+        "documentType": "Cédula",
+        "documentNumber": 18709150,
+        "amount": 34725399
+    },
+    {
+        "datetime": "21/08/2023",
+        "disbursementNumber": 89728542,
+        "documentType": "Tarjeta de identidad",
+        "documentNumber": 88038612,
+        "amount": 90528457
+    },
+    {
+        "datetime": "21/04/2023",
+        "disbursementNumber": 17547765,
+        "documentType": "Cédula",
+        "documentNumber": 34160656,
+        "amount": 19177847
+    },
+    {
+        "datetime": "29/08/2023",
+        "disbursementNumber": 50880461,
+        "documentType": "Cédula",
+        "documentNumber": 60151962,
+        "amount": 64523876
+    },
+    {
+        "datetime": "27/06/2023",
+        "disbursementNumber": 80633704,
+        "documentType": "Cédula",
+        "documentNumber": 36977915,
+        "amount": 20621067
+    },
+    {
+        "datetime": "19/11/2022",
+        "disbursementNumber": 23750190,
+        "documentType": "Cédula",
+        "documentNumber": 35589887,
+        "amount": 39173783
+    },
+    {
+        "datetime": "10/07/2023",
+        "disbursementNumber": 98440316,
+        "documentType": "Cédula",
+        "documentNumber": 51228711,
+        "amount": 28148395
+    },
+    {
+        "datetime": "15/01/2023",
+        "disbursementNumber": 83906253,
+        "documentType": "Cédula",
+        "documentNumber": 21261433,
+        "amount": 91779423
+    },
+    {
+        "datetime": "04/03/2023",
+        "disbursementNumber": 83838666,
+        "documentType": "Cédula",
+        "documentNumber": 45362402,
+        "amount": 89165777
+    },
+    {
+        "datetime": "08/09/2023",
+        "disbursementNumber": 82055345,
+        "documentType": "Cédula",
+        "documentNumber": 91043903,
+        "amount": 20416211
+    },
+    {
+        "datetime": "06/05/2023",
+        "disbursementNumber": 95287659,
+        "documentType": "Cédula",
+        "documentNumber": 51653664,
+        "amount": 40276476
+    },
+    {
+        "datetime": "11/11/2022",
+        "disbursementNumber": 70570773,
+        "documentType": "Cédula",
+        "documentNumber": 13224591,
+        "amount": 67457754
+    },
+    {
+        "datetime": "16/06/2023",
+        "disbursementNumber": 41364491,
+        "documentType": "Cédula",
+        "documentNumber": 27922098,
+        "amount": 16199117
+    },
+    {
+        "datetime": "26/09/2023",
+        "disbursementNumber": 34156289,
+        "documentType": "Cédula",
+        "documentNumber": 36156183,
+        "amount": 60181343
+    },
+    {
+        "datetime": "13/10/2023",
+        "disbursementNumber": 20812177,
+        "documentType": "Cédula",
+        "documentNumber": 75393998,
+        "amount": 85171891
+    },
+    {
+        "datetime": "26/02/2023",
+        "disbursementNumber": 41645258,
+        "documentType": "Cédula",
+        "documentNumber": 40103900,
+        "amount": 33377232
+    },
+    {
+        "datetime": "15/12/2022",
+        "disbursementNumber": 15679438,
+        "documentType": "Cédula",
+        "documentNumber": 23575997,
+        "amount": 92476875
+    },
+    {
+        "datetime": "12/11/2022",
+        "disbursementNumber": 70578547,
+        "documentType": "Cédula",
+        "documentNumber": 72643704,
+        "amount": 12861695
+    },
+    {
+        "datetime": "12/10/2023",
+        "disbursementNumber": 24080141,
+        "documentType": "Cédula",
+        "documentNumber": 33034851,
+        "amount": 30607612
+    },
+    {
+        "datetime": "29/10/2023",
+        "disbursementNumber": 83863028,
+        "documentType": "Cédula",
+        "documentNumber": 23462311,
+        "amount": 55334899
+    },
+    {
+        "datetime": "17/07/2023",
+        "disbursementNumber": 55576198,
+        "documentType": "Cédula",
+        "documentNumber": 29955317,
+        "amount": 40981826
+    },
+    {
+        "datetime": "17/02/2023",
+        "disbursementNumber": 35410645,
+        "documentType": "Cédula",
+        "documentNumber": 93322530,
+        "amount": 44747788
+    },
+    {
+        "datetime": "13/03/2023",
+        "disbursementNumber": 76711836,
+        "documentType": "Cédula",
+        "documentNumber": 19808603,
+        "amount": 69297985
+    },
+    {
+        "datetime": "18/09/2023",
+        "disbursementNumber": 83138444,
+        "documentType": "NIT",
+        "documentNumber": 90927791,
+        "amount": 67911047
+    },
+    {
+        "datetime": "18/06/2023",
+        "disbursementNumber": 12479025,
+        "documentType": "Cédula",
+        "documentNumber": 80646005,
+        "amount": 66608974
+    },
+    {
+        "datetime": "13/06/2023",
+        "disbursementNumber": 70424640,
+        "documentType": "Cédula",
+        "documentNumber": 57574985,
+        "amount": 31354176
+    },
+    {
+        "datetime": "26/04/2023",
+        "disbursementNumber": 82152725,
+        "documentType": "Cédula",
+        "documentNumber": 26455552,
+        "amount": 21428677
+    },
+    {
+        "datetime": "27/11/2022",
+        "disbursementNumber": 49585386,
+        "documentType": "Cédula",
+        "documentNumber": 35994331,
+        "amount": 68130605
+    },
+    {
+        "datetime": "21/10/2023",
+        "disbursementNumber": 13883909,
+        "documentType": "Cédula",
+        "documentNumber": 43416796,
+        "amount": 41493072
+    },
+    {
+        "datetime": "25/04/2023",
+        "disbursementNumber": 42010952,
+        "documentType": "Cédula",
+        "documentNumber": 71981972,
+        "amount": 68012993
+    },
+    {
+        "datetime": "14/03/2023",
+        "disbursementNumber": 66421914,
+        "documentType": "Cédula",
+        "documentNumber": 73198318,
+        "amount": 19094460
+    },
+    {
+        "datetime": "02/04/2023",
+        "disbursementNumber": 55647465,
+        "documentType": "Cédula",
+        "documentNumber": 93700578,
+        "amount": 79336596
+    },
+    {
+        "datetime": "11/02/2023",
+        "disbursementNumber": 33972805,
+        "documentType": "Cédula",
+        "documentNumber": 61485889,
+        "amount": 69047890
+    },
+    {
+        "datetime": "23/06/2023",
+        "disbursementNumber": 16356962,
+        "documentType": "Cédula",
+        "documentNumber": 87887546,
+        "amount": 51521323
+    },
+    {
+        "datetime": "19/06/2023",
+        "disbursementNumber": 14800571,
+        "documentType": "Cédula",
+        "documentNumber": 48584301,
+        "amount": 40226405
+    },
+    {
+        "datetime": "01/01/2023",
+        "disbursementNumber": 87246923,
+        "documentType": "Cédula",
+        "documentNumber": 43170755,
+        "amount": 37627598
+    },
+    {
+        "datetime": "01/10/2023",
+        "disbursementNumber": 21213156,
+        "documentType": "Cédula",
+        "documentNumber": 48585503,
+        "amount": 72007015
+    },
+    {
+        "datetime": "07/06/2023",
+        "disbursementNumber": 63376116,
+        "documentType": "Cédula",
+        "documentNumber": 54738613,
+        "amount": 45547003
+    },
+    {
+        "datetime": "03/06/2023",
+        "disbursementNumber": 55985440,
+        "documentType": "Cédula",
+        "documentNumber": 81748247,
+        "amount": 43390934
+    },
+    {
+        "datetime": "04/07/2023",
+        "disbursementNumber": 85652540,
+        "documentType": "Cédula",
+        "documentNumber": 97617201,
+        "amount": 52655502
+    },
+    {
+        "datetime": "14/03/2023",
+        "disbursementNumber": 54861098,
+        "documentType": "Cédula",
+        "documentNumber": 16728166,
+        "amount": 70175862
+    },
+    {
+        "datetime": "04/02/2023",
+        "disbursementNumber": 39188981,
+        "documentType": "Cédula",
+        "documentNumber": 50076016,
+        "amount": 29522854
+    },
+    {
+        "datetime": "22/04/2023",
+        "disbursementNumber": 26173732,
+        "documentType": "Cédula",
+        "documentNumber": 66650047,
+        "amount": 82305502
+    },
+    {
+        "datetime": "01/02/2023",
+        "disbursementNumber": 18871691,
+        "documentType": "Cédula",
+        "documentNumber": 80267761,
+        "amount": 46222581
+    },
+    {
+        "datetime": "12/10/2023",
+        "disbursementNumber": 10298441,
+        "documentType": "Cédula",
+        "documentNumber": 71596584,
+        "amount": 60345313
+    },
+    {
+        "datetime": "18/07/2023",
+        "disbursementNumber": 60004957,
+        "documentType": "Cédula",
+        "documentNumber": 95864816,
+        "amount": 80497985
+    },
+    {
+        "datetime": "12/12/2022",
+        "disbursementNumber": 59841866,
+        "documentType": "Cédula",
+        "documentNumber": 95172778,
+        "amount": 54283478
+    },
+    {
+        "datetime": "19/09/2023",
+        "disbursementNumber": 88205428,
+        "documentType": "Cédula",
+        "documentNumber": 63641947,
+        "amount": 15113407
+    },
+    {
+        "datetime": "19/10/2023",
+        "disbursementNumber": 24657550,
+        "documentType": "Cédula",
+        "documentNumber": 60881835,
+        "amount": 81253392
+    },
+    {
+        "datetime": "16/11/2022",
+        "disbursementNumber": 48596882,
+        "documentType": "Cédula",
+        "documentNumber": 11620526,
+        "amount": 70293265
+    },
+    {
+        "datetime": "16/09/2023",
+        "disbursementNumber": 58898011,
+        "documentType": "NIT",
+        "documentNumber": 53197518,
+        "amount": 70144729
+    },
+    {
+        "datetime": "05/03/2023",
+        "disbursementNumber": 63467571,
+        "documentType": "NIT",
+        "documentNumber": 96620116,
+        "amount": 20870797
+    },
+    {
+        "datetime": "15/05/2023",
+        "disbursementNumber": 47909798,
+        "documentType": "NIT",
+        "documentNumber": 72598421,
+        "amount": 88590535
+    },
+    {
+        "datetime": "03/10/2023",
+        "disbursementNumber": 69904306,
+        "documentType": "NIT",
+        "documentNumber": 96149443,
+        "amount": 15455564
+    },
+    {
+        "datetime": "18/03/2023",
+        "disbursementNumber": 58838178,
+        "documentType": "NIT",
+        "documentNumber": 85665868,
+        "amount": 71348764
+    },
+    {
+        "datetime": "06/08/2023",
+        "disbursementNumber": 13268852,
+        "documentType": "NIT",
+        "documentNumber": 29173979,
+        "amount": 86823668
+    },
+    {
+        "datetime": "14/04/2023",
+        "disbursementNumber": 22605714,
+        "documentType": "Cédula",
+        "documentNumber": 62588170,
+        "amount": 40630013
+    },
+    {
+        "datetime": "17/06/2023",
+        "disbursementNumber": 54202716,
+        "documentType": "Cédula",
+        "documentNumber": 35631932,
+        "amount": 43942751
+    },
+    {
+        "datetime": "11/02/2023",
+        "disbursementNumber": 95721495,
+        "documentType": "Tarjeta de identidad",
+        "documentNumber": 93387352,
+        "amount": 61613272
+    },
+    {
+        "datetime": "15/11/2022",
+        "disbursementNumber": 21589005,
+        "documentType": "Tarjeta de identidad",
+        "documentNumber": 83468777,
+        "amount": 94880135
+    },
+    {
+        "datetime": "02/02/2023",
+        "disbursementNumber": 42394757,
+        "documentType": "Tarjeta de identidad",
+        "documentNumber": 31174895,
+        "amount": 18125156
+    },
+    {
+        "datetime": "28/04/2023",
+        "disbursementNumber": 42334762,
+        "documentType": "Tarjeta de identidad",
+        "documentNumber": 56317864,
+        "amount": 27073741
+    },
+    {
+        "datetime": "03/12/2022",
+        "disbursementNumber": 23128646,
+        "documentType": "Tarjeta de identidad",
+        "documentNumber": 39662942,
+        "amount": 30973923
+    },
+    {
+        "datetime": "25/09/2023",
+        "disbursementNumber": 15165069,
+        "documentType": "Tarjeta de identidad",
+        "documentNumber": 88003614,
+        "amount": 18304462
+    },
+    {
+        "datetime": "15/11/2022",
+        "disbursementNumber": 22389771,
+        "documentType": "Tarjeta de identidad",
+        "documentNumber": 92900084,
+        "amount": 86352324
+    },
+    {
+        "datetime": "18/07/2023",
+        "disbursementNumber": 96257667,
+        "documentType": "Tarjeta de identidad",
+        "documentNumber": 65576707,
+        "amount": 59590925
+    },
+    {
+        "datetime": "04/02/2023",
+        "disbursementNumber": 22773448,
+        "documentType": "Cédula",
+        "documentNumber": 24068278,
+        "amount": 64668837
+    },
+    {
+        "datetime": "17/01/2023",
+        "disbursementNumber": 42863855,
+        "documentType": "Cédula",
+        "documentNumber": 58227564,
+        "amount": 80582792
+    },
+    {
+        "datetime": "19/04/2023",
+        "disbursementNumber": 56377094,
+        "documentType": "Cédula",
+        "documentNumber": 67100896,
+        "amount": 25816573
+    },
+    {
+        "datetime": "13/03/2023",
+        "disbursementNumber": 73125411,
+        "documentType": "Cédula",
+        "documentNumber": 91982408,
+        "amount": 38209603
+    },
+    {
+        "datetime": "27/08/2023",
+        "disbursementNumber": 60804243,
+        "documentType": "Cédula",
+        "documentNumber": 97012030,
+        "amount": 91171479
+    },
+    {
+        "datetime": "11/09/2023",
+        "disbursementNumber": 28623734,
+        "documentType": "Cédula",
+        "documentNumber": 36057137,
+        "amount": 75101379
+    },
+    {
+        "datetime": "16/01/2023",
+        "disbursementNumber": 81271861,
+        "documentType": "Cédula",
+        "documentNumber": 93111487,
+        "amount": 96949576
+    },
+    {
+        "datetime": "29/11/2022",
+        "disbursementNumber": 80594490,
+        "documentType": "Cédula",
+        "documentNumber": 69023451,
+        "amount": 97695308
+    },
+    {
+        "datetime": "03/12/2022",
+        "disbursementNumber": 92295632,
+        "documentType": "Cédula",
+        "documentNumber": 81213990,
+        "amount": 78413543
+    },
+    {
+        "datetime": "18/07/2023",
+        "disbursementNumber": 51990150,
+        "documentType": "Cédula",
+        "documentNumber": 85172429,
+        "amount": 89372367
+    },
+    {
+        "datetime": "14/02/2023",
+        "disbursementNumber": 58288401,
+        "documentType": "Cédula",
+        "documentNumber": 83996004,
+        "amount": 21796562
+    },
+    {
+        "datetime": "26/05/2023",
+        "disbursementNumber": 56549308,
+        "documentType": "Cédula",
+        "documentNumber": 86828173,
+        "amount": 17266712
+    },
+    {
+        "datetime": "01/04/2023",
+        "disbursementNumber": 72266706,
+        "documentType": "Cédula",
+        "documentNumber": 39317697,
+        "amount": 35732338
+    },
+    {
+        "datetime": "27/04/2023",
+        "disbursementNumber": 46150224,
+        "documentType": "Cédula",
+        "documentNumber": 54532598,
+        "amount": 56195473
+    },
+    {
+        "datetime": "18/02/2023",
+        "disbursementNumber": 63037551,
+        "documentType": "Cédula",
+        "documentNumber": 93989312,
+        "amount": 77017719
+    },
+    {
+        "datetime": "24/07/2023",
+        "disbursementNumber": 37425032,
+        "documentType": "Cédula",
+        "documentNumber": 59153902,
+        "amount": 46233392
+    },
+    {
+        "datetime": "21/10/2023",
+        "disbursementNumber": 46756048,
+        "documentType": "Cédula",
+        "documentNumber": 26109581,
+        "amount": 72599639
+    },
+    {
+        "datetime": "25/08/2023",
+        "disbursementNumber": 19031704,
+        "documentType": "Cédula",
+        "documentNumber": 23682240,
+        "amount": 23140405
+    },
+    {
+        "datetime": "16/03/2023",
+        "disbursementNumber": 20800161,
+        "documentType": "Cédula",
+        "documentNumber": 19526614,
+        "amount": 52504384
+    },
+    {
+        "datetime": "30/05/2023",
+        "disbursementNumber": 92096607,
+        "documentType": "Cédula",
+        "documentNumber": 48226973,
+        "amount": 50059870
+    },
+    {
+        "datetime": "04/02/2023",
+        "disbursementNumber": 46513175,
+        "documentType": "Cédula",
+        "documentNumber": 41238774,
+        "amount": 49759176
+    },
+    {
+        "datetime": "07/05/2023",
+        "disbursementNumber": 54213118,
+        "documentType": "Cédula",
+        "documentNumber": 81021060,
+        "amount": 18609804
+    },
+    {
+        "datetime": "15/01/2023",
+        "disbursementNumber": 10856261,
+        "documentType": "Cédula",
+        "documentNumber": 22436757,
+        "amount": 66962997
+    },
+    {
+        "datetime": "21/12/2022",
+        "disbursementNumber": 67076953,
+        "documentType": "Cédula",
+        "documentNumber": 16928382,
+        "amount": 17085614
+    },
+    {
+        "datetime": "03/03/2023",
+        "disbursementNumber": 55853818,
+        "documentType": "Cédula",
+        "documentNumber": 19372367,
+        "amount": 92486281
+    },
+    {
+        "datetime": "27/10/2023",
+        "disbursementNumber": 64224696,
+        "documentType": "Cédula",
+        "documentNumber": 72031864,
+        "amount": 36678433
+    },
+    {
+        "datetime": "25/03/2023",
+        "disbursementNumber": 44442987,
+        "documentType": "Cédula",
+        "documentNumber": 31991068,
+        "amount": 15759635
+    },
+    {
+        "datetime": "11/10/2023",
+        "disbursementNumber": 25210105,
+        "documentType": "Cédula",
+        "documentNumber": 31287362,
+        "amount": 17308905
+    },
+    {
+        "datetime": "19/09/2023",
+        "disbursementNumber": 96567210,
+        "documentType": "Cédula",
+        "documentNumber": 81767783,
+        "amount": 65938143
+    },
+    {
+        "datetime": "23/03/2023",
+        "disbursementNumber": 31407549,
+        "documentType": "Cédula",
+        "documentNumber": 82664651,
+        "amount": 96951975
+    },
+    {
+        "datetime": "27/02/2023",
+        "disbursementNumber": 37763374,
+        "documentType": "Cédula",
+        "documentNumber": 39218477,
+        "amount": 83786327
+    },
+    {
+        "datetime": "03/09/2023",
+        "disbursementNumber": 29952623,
+        "documentType": "Cédula",
+        "documentNumber": 48657795,
+        "amount": 60509746
+    },
+    {
+        "datetime": "02/01/2023",
+        "disbursementNumber": 56167477,
+        "documentType": "Cédula",
+        "documentNumber": 97217707,
+        "amount": 68501479
+    },
+    {
+        "datetime": "27/04/2023",
+        "disbursementNumber": 91528768,
+        "documentType": "Cédula",
+        "documentNumber": 77769515,
+        "amount": 68749017
+    }
+]
